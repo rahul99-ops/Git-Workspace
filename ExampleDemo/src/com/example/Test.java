@@ -7,7 +7,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		List<String> l=new ArrayList();
+		List<String> l=new ArrayList<String>();
 		l.add("pune");
 		l.add("mumbai");
 		l.add("bangalore");
