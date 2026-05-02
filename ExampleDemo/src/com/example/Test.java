@@ -11,6 +11,7 @@ public class Test {
 		l.add("pune");
 		l.add("mumbai");
 		l.add("bangalore");
+		l.add("delhi");
 		System.out.println(l);
 	}
 }
